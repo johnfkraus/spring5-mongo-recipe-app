@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/johnfkraus/spring5-mongo-recipe-app.svg?style=svg)](https://circleci.com/gh/johnfkraus/spring5-mongo-recipe-app)
+
+[![CircleCI](https://circleci.com/gh/johnfkraus/spring5-mongo-recipe-app.svg?style=svg&circle-token=537854b5b84dd23886a6ce2198ad8c798ba1ca2b)](https://circleci.com/gh/johnfkraus/spring5-mongo-recipe-app)
 
 [![codecov](https://codecov.io/gh/johnfkraus/spring5-mongo-recipe-app/branch/master/graph/badge.svg)](https://codecov.io/gh/johnfkraus/spring5-mongo-recipe-app)
 
